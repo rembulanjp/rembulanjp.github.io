@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rembulanjp.github.io/sitemap.xml
